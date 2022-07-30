@@ -37,8 +37,64 @@
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
 
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [HashiCorp Terraform Associate Exam: How to Pass in a week](https://medium.com/@farahs/hashicorp-terraform-associate-exam-how-to-pass-in-a-week-b7df199dba2f)
+- [Why are there so many people making a transition into DevOps/Cloud? &lpar;Part I&rpar;](https://medium.com/@farahs/why-is-everyone-talking-about-devops-134f03039024)
+- [Security Guard➝ Platform Engineering (DevOps) without a Computer Science Degree — My Journey &lpar;Part I&rpar;](https://medium.com/@farahs/it-support-platform-engineering-devops-without-a-computer-science-degree-my-journey-5ea667de49f1)
+
+<!-- BLOG-POST-LIST:END -->
+
+### Works
+
+#### Community Maintained
+- [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
+- [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
+- [Everything Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
+- [Grad-Entry Level Resources (IN PROGRESS)](https://github.com/moabukar/Grad-EntryLevel-Resources)
+- [Recommended DevOps certs](https://github.com/moabukar/Recommended-DevOps-certs)
+
+#### Personal, Projects & Useful repos
+- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
+- [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
+- [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
+- [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
+- [My Dotfiles](https://github.com/moabukar/dotfiles)
+- [A CLI created in Golang](https://github.com/moabukar/CLI-Go)
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p> <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" alt="Terraform" width="40" height="40" >
+</p>
+
+### GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="moabukar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&locale=en" alt="moabukar" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moabukar" alt="moabukar" /></a> </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
+</p>
+
+
+<!--
+**mohamedA007/mohamedA007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
