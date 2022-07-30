@@ -33,7 +33,6 @@
       <a href="https://www.facebook.com/farahsops" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-<<<<<<< HEAD
       <a href="https://twitter.com/farahsops" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -53,19 +52,14 @@
 ### Works
 
 #### Community Maintained
-- [Kubernetes-and-Cloud-Native-Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
-- [CKS Exercises](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)
-- [Everything Tech repo (IN PROGRESS)](https://github.com/moabukar/Everything-Tech)
-- [Grad-Entry Level Resources (IN PROGRESS)](https://github.com/moabukar/Grad-EntryLevel-Resources)
-- [Recommended DevOps certs](https://github.com/moabukar/Recommended-DevOps-certs)
+- [Loading ...](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
+- [Loading ...](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
+- [Loading ...](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
 
 #### Personal, Projects & Useful repos
-- [macOS setup using Ansible](https://github.com/moabukar/ansible-mac-setup)
-- [A list of Ansible roles & playbooks I have created and/or used](https://github.com/moabukar/ansible2.0)
-- [DevOps Tooling - A repo containing toolings and software useful for a DevOps Engineer](https://github.com/moabukar/DevOps-Tooling)
-- [ArgoCD Project - Local setup](https://github.com/moabukar/argocd)
-- [My Dotfiles](https://github.com/moabukar/dotfiles)
-- [A CLI created in Golang](https://github.com/moabukar/CLI-Go)
+- [Loading ...](https://github.com/moabukar/ansible-mac-setup)
+- [Loading ...](https://github.com/moabukar/DevOps-Tooling)
+- [Loading ...](https://github.com/moabukar/argocd)
 
 
 
