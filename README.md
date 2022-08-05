@@ -51,12 +51,12 @@
 
 ### Works
 
-#### Community Maintained
+#### 🏗️ Personal Projects
 - [Loading ...](https://www.linkedin.com/in/smf98/)
 - [Loading ...](https://medium.com/@farahs)
 - [Loading ...](https://www.linkedin.com/in/smf98/)
 
-#### Personal, Projects & Useful repos
+#### 🚧 Useful Resources 
 - [Loading ...](https://medium.com/@farahs)
 - [Loading ...](https://www.linkedin.com/in/smf98/)
 - [Loading ...](https://medium.com/@farahs)
@@ -66,7 +66,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  </a href="https://www.terraform.io/" target="_blank" rel="noreferrer">  <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" alt="Terraform" width="40" height="40" > </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farah-sm&show_icons=true&locale=en&layout=compact" alt="farah-sm" /></p>
 
