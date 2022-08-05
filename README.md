@@ -70,7 +70,7 @@
 
 ### 📊 GitHub Stats
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farah-sm&show_icons=true&locale=en&layout=compact" alt="farah-sm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farah-sm&show_icons=true&locale=en" alt="farah-sm" /></p>
 
