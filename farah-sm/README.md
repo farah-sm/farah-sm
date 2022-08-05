@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️You can reach me</summary>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -38,11 +38,11 @@
          alt="azzar" height="30"/></a>
 
 
-------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:START -->
 - [HashiCorp Terraform Associate Exam: How to Pass in a week](https://medium.com/@farahs/hashicorp-terraform-associate-exam-how-to-pass-in-a-week-b7df199dba2f)
 - [Why are there so many people making a transition into DevOps/Cloud? &lpar;Part I&rpar;](https://medium.com/@farahs/why-is-everyone-talking-about-devops-134f03039024)
 - [Security Guard➝ Platform Engineering (DevOps) without a Computer Science Degree — My Journey &lpar;Part I&rpar;](https://medium.com/@farahs/it-support-platform-engineering-devops-without-a-computer-science-degree-my-journey-5ea667de49f1)
@@ -68,19 +68,18 @@
 
 ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moabukar&show_icons=true&locale=en&layout=compact" alt="moabukar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farah-sm&show_icons=true&locale=en&layout=compact" alt="farah-sm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moabukar&show_icons=true&locale=en" alt="moabukar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farah-sm&show_icons=true&locale=en" alt="farah-sm" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moabukar" alt="moabukar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farah-sm" alt="farah-sm" /></a> </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moabukar&color=green&style=liquid" />
+  <img src="https://komarev.com/ghpvc/?username=farah-sm&color=green&style=liquid" />
 </p>
 
 
 
-=======
     
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  </a href="https://www.terraform.io/" target="_blank" rel="noreferrer">  <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" alt="Terraform" width="40" height="40" > </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
