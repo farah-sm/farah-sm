@@ -87,24 +87,24 @@
 
 -----------------------------------------------------------------------------------
  <p align="centre">
-      <a href="https://www.linkedin.com/in/smf98/" target="blank"><img align="left"
+      <a href="https://www.linkedin.com/in/smf98/" target="blank"><img align="centre"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="saed" height="15"/></a>
-    <a href="https://medium.com/@farahs" target="blank"><img align="left"
+    <a href="https://medium.com/@farahs" target="blank"><img align="centre"
          src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
          alt="saed" height="15"/></a>
-      <a href="https://mailto:saed0207@gmail.com" target="blank"><img align="left"
+      <a href="https://mailto:saed0207@gmail.com" target="blank"><img align="centre"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="saed" height="15"/></a>
     </p>
   <p align="centre">
-      <a href="https://www.instagram.com/farahsops/" target="blank"><img align="left"
+      <a href="https://www.instagram.com/farahsops/" target="blank"><img align="centre"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="saed" height="15"/></a>
-      <a href="https://www.facebook.com/farahsops" target="blank"><img align="left"
+      <a href="https://www.facebook.com/farahsops" target="blank"><img align="centre"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="saed" height="15"/></a>
-      <a href="https://twitter.com/farahsops" target="blank"><img align="left"
+      <a href="https://twitter.com/farahsops" target="blank"><img align="centre"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="saed" height="15"/></a>
     </p>
