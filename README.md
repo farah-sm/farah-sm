@@ -40,7 +40,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-### 📕 Latest Blog Posts
+### 📚 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [HashiCorp Terraform Associate Exam: How to Pass in a week](https://medium.com/@farahs/hashicorp-terraform-associate-exam-how-to-pass-in-a-week-b7df199dba2f)
