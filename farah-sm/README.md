@@ -86,7 +86,7 @@
 
 
 -----------------------------------------------------------------------------------
- <p align="left">
+ <p align="centre">
       <a href="https://www.linkedin.com/in/smf98/" target="blank"><img align="left"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="saed" height="15"/></a>
@@ -97,7 +97,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="saed" height="15"/></a>
     </p>
-  <p align="left">
+  <p align="centre">
       <a href="https://www.instagram.com/farahsops/" target="blank"><img align="left"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="saed" height="15"/></a>
