@@ -52,14 +52,14 @@
 ### Works
 
 #### Community Maintained
-- [Loading ...](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
-- [Loading ...](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
-- [Loading ...](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)
+- [Loading ...](https://www.linkedin.com/in/smf98/)
+- [Loading ...](https://medium.com/@farahs)
+- [Loading ...](https://www.linkedin.com/in/smf98/)
 
 #### Personal, Projects & Useful repos
-- [Loading ...](https://github.com/moabukar/ansible-mac-setup)
-- [Loading ...](https://github.com/moabukar/DevOps-Tooling)
-- [Loading ...](https://github.com/moabukar/argocd)
+- [Loading ...](https://medium.com/@farahs)
+- [Loading ...](https://www.linkedin.com/in/smf98/)
+- [Loading ...](https://medium.com/@farahs)
 
 
 
