@@ -36,7 +36,7 @@
       <a href="https://twitter.com/farahsops" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
-
+</details>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
