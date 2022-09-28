@@ -46,6 +46,7 @@
 - [HashiCorp Terraform Associate Exam: How to Pass in a week](https://medium.com/@farahs/hashicorp-terraform-associate-exam-how-to-pass-in-a-week-b7df199dba2f)
 - [Why are there so many people making a transition into DevOps/Cloud? &lpar;Part I&rpar;](https://medium.com/@farahs/why-is-everyone-talking-about-devops-134f03039024)
 - [Security Guard➝ Platform Engineering (DevOps) without a Computer Science Degree — My Journey &lpar;Part I&rpar;](https://medium.com/@farahs/it-support-platform-engineering-devops-without-a-computer-science-degree-my-journey-5ea667de49f1)
+- [You will NOT make a complete Developer without this!](https://medium.com/p/c7995b2fecc7)
 
 <!-- BLOG-POST-LIST:END -->
 
