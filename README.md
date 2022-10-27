@@ -43,7 +43,7 @@
 ### 📚 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming is the future. BUT WHY?](https://medium.com/p/c7995b2fecc7](https://farahs.medium.com/programming-is-the-future-but-why-cd4f54d638df)
+- [Programming is the future. BUT WHY?](https://farahs.medium.com/programming-is-the-future-but-why-cd4f54d638df)
 - [You will NOT make a complete Developer without this!](https://medium.com/p/c7995b2fecc7)
 - [HashiCorp Terraform Associate Exam: How to Pass in a week](https://medium.com/@farahs/hashicorp-terraform-associate-exam-how-to-pass-in-a-week-b7df199dba2f)
 - [Why are there so many people making a transition into DevOps/Cloud? &lpar;Part I&rpar;](https://medium.com/@farahs/why-is-everyone-talking-about-devops-134f03039024)
